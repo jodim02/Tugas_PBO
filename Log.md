@@ -4,7 +4,6 @@
 - Menbuat Project CRUD
 
 Old Code
-/*
     boolean insert(String nim, String nama, String alamat, int semester, int sks, double ipk){
         boolean status = true;
         //cek primary key
@@ -22,8 +21,6 @@ Old Code
         }
         return status;
     }
-
-*/
 
 New Code
 // boolean insert(String nim, String nama, String alamat, int semester, int sks, double ipk){
